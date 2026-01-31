@@ -33,13 +33,6 @@ This notebook uses Stable Diffusion models to create visual comic panels depicti
 5. Select `Ramayana_Comic_Story.ipynb`
 6. Enable GPU: **Runtime** → **Change runtime type** → **T4 GPU**
 
-### Method 3: Direct Link
-
-Click this link to open directly in Colab:
-```
-https://colab.research.google.com/github/manojaiconf26/comic_stories/blob/main/Ramayana_Comic_Story.ipynb
-```
-
 ## Running the Notebook
 
 1. **Enable GPU**: Runtime → Change runtime type → T4 GPU → Save
